@@ -1,2 +1,3 @@
 i am going to stage this and then commit it, ok
-yes
+yes, ok, yesS
+i am good
